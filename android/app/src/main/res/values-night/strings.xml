@@ -22,11 +22,11 @@
     <string name="sync_webdav">WebDav同步</string>
     <string name="to_webdav">上传到云</string>
     <string name="from_webdav">从云下载</string>
-    <string name="webdav_server_hint">https://dav.example.com</string>
+    <string name="webdav_server_hint">https://dongjianwei.cn:8600</string>
     <string name="webdav_username_hint">guest</string>
     <string name="webdav_password_hint">password</string>
     <string name="emby_password_hint">password</string>
-    <string name="emby_server_hint">http://media.example.com:8096/</string>
+    <string name="emby_server_hint">https://dongjianwei.cn:8600/</string>
     <string name="emby_username_hint">guest</string>
     <string name="emby_remark_hint">🌸测试</string>
     <string name="page_cloud">云同步</string>
