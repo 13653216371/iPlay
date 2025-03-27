@@ -79,7 +79,7 @@
             android:layout_marginBottom="5dp"
             android:layout_marginLeft="10dp"
             android:gravity="start"
-            android:text="https://example.com:8096"
+            android:text="https://dongjianwei.cn:8600"
             android:textAlignment="viewStart"
             android:textColor="@color/onTertiaryContainer"
             android:textSize="14sp"
